@@ -1,0 +1,75 @@
+html, body, div, ul {
+	margin: 0;
+	padding: 0;
+    
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    color: #262626;
+	background-image:url('wood.jpg'); 
+	font: normal 12px/18px Verdana, sans-serif;
+}
+
+audio {
+    background-color: #95B9C7;
+}
+
+#content {
+    text-align:center;
+	width: 800px;
+    height: 580px;
+	margin: 30px auto 0 auto;
+    margin-bottom: 20px;
+	padding: 0 60px 30px 60px;
+	border: solid 1px #cbcbcb;
+    background-image:url('Oink_Background_Paper.jpg');
+	-moz-box-shadow: 0px 0px 10px #cbcbcb;
+	-webkit-box-shadow: 0px 0px 10px #cbcbcb;
+}
+
+h1 {
+	margin: 30px 0 15px 0;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Helvetica neue;
+}
+
+h1 span {
+	font-size: 50%;
+	letter-spacing: -0.05em;
+}
+
+hr {
+	border: none;
+	height: 1px; line-height: 1px;
+	background: #E5E5E5;
+	margin-bottom: 20px;
+	padding: 0;
+}
+
+p {
+	margin: 0;
+	padding: 7px 0;
+}
+
+a {
+	outline: none;
+}
+
+a img {
+	border: 1px solid #BBB;
+	padding: 2px;
+	margin: 10px 20px 10px 0;
+	vertical-align: top;
+}
+
+a img.last {
+	margin-right: 0;	
+}
+
+ul {
+	margin-bottom: 24px;
+	padding-left: 30px;
+}
